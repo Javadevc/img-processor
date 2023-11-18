@@ -1,3 +1,8 @@
+# img-processor
+create username password , and use imgur  api for image operations using spring boot
+
+
+APIs Exposed:
 1. To register a new user
 
 POST http://localhost:8181/imgprocessor/api/users/signup
